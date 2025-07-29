@@ -1,0 +1,14 @@
+What is your current CTC in Lacs per annum?=4.8LPA
+What is your expected CTC in Lacs per annum?=8LPA
+What is your notice period?=15 Days or less
+Are you serving your notice period?=No
+Do you have experience in automation testing?=Yes
+Do you have experience in manual testing?=Yes
+Do you have experience in api testing?=Yes
+How many years of experience do you have in QA Testing?=3
+How many years of experience do you have in Automation Testing?=3
+How many years of experience do you have in Manual Testing?=3
+How many years of experience do you have in api Testing?=3
+Are you more interested in manual testing, automation testing, or a combination of both?=Yes
+Are you currently residing *=Yes
+What automation tools are you familiar with or have hands-on experience in?=Selenium with java
