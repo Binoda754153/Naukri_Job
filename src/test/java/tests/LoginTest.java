@@ -24,7 +24,7 @@ public class LoginTest extends BaseTest {
 
 		HomePage homePage = new HomePage(driver);
 		homePage.searchJob(
-				"Java Selenium, Manual Testing, Qa Engineer, Automation Testing, QA Automation, SDET, API Testing");
+				"Devops, SRE, Docker, CI/CD, Application Support, Linux");
 		JobApply jobApply = new JobApply(driver);
 		jobApply.applyLast1DayFreshnessFilter();
 		jobApply.applyJobsFromSearchResults();
